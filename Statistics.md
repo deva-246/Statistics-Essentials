@@ -1,5 +1,8 @@
 ## Statistics
 
+![STatistocs](https://github.com/deva-246/Statistics-Essentials/assets/75877347/9c16db26-c5d5-4070-863f-d18cf7bd9aa0)
+
+
 Statistics is a branch of applied mathematics that involves the collection, description, analysis, and inference of conclusions from quantitative data. The mathematical theories behind statistics rely heavily on differential and integral calculus, linear algebra, and probability theory.
 
 People who do statistics are referred to as statisticians. They're particularly concerned with determining how to draw reliable conclusions about large groups and general events from the behavior and other observable characteristics of small samples. These small samples represent a portion of the large group or a limited number of instances of a general phenomenon.
